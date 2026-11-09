@@ -38,6 +38,10 @@ Compositor 主程序源码基于上游 MIT 许可修改再分发（上游版权�
 
 ## 🚀 快速开始
 
+> **不想编译？** 直接到 [**Releases · v7.0**](https://github.com/zhuiszhu1/Compositor-CN/releases/latest) 下载：
+> **`Compositor-CN-installer-v7.zip`**（解压 → 双击 `安装汉化.command` → 重启 Compositor）
+> **`Compositor-CN-plugins-v7.zip`**（两个插件免编译，「导入插件」按钮加载即可）
+
 ```bash
 git clone https://github.com/zhuiszhu1/Compositor-CN.git
 cd Compositor-CN
