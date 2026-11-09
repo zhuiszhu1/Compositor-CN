@@ -1,0 +1,5 @@
+framework module Sparkle {
+  umbrella header "Sparkle.h"
+  export *
+  module * { export * }
+}

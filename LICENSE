@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2026 zhuiszhu1 (Compositor-CN)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------
+
+本仓库包含源自第三方开源项目的代码与文件，其许可如下（MIT 全文见
+源码/LICENSE-上游-MIT.txt）：
+
+* Compositor 主程序源码（源码/Compositor/ 及 重编译源码补丁.patch）
+  基于上游 https://github.com/robbietilton/Compositor （MIT License,
+  Copyright (c) 2026 Wonder Assembly LLC）的修改版本，按其 MIT 许可
+  随本仓库再分发，上游版权声明与许可全文一并保留。
+
+* Sparkle.framework（源码/Sparkle.framework/）来自 Sparkle 项目
+  https://github.com/sparkle-project/Sparkle （MIT License），
+  许可全文见 源码/Sparkle-LICENSE.txt。
+
+* libwebp（导出插件/libwebp-src/）来自 libwebp 项目
+  https://github.com/webm-project/libwebp （BSD 三条款许可），
+  许可全文见 导出插件/libwebp-src/COPYING。
